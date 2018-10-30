@@ -9,8 +9,8 @@ namespace Zad._13
         {
             int a = 5;
             int b = 10;
-            Console.WriteLine("A = {0}",b);
-            Console.WriteLine("B = {0}",a);
+            Console.WriteLine(" A = {0}",b);
+            Console.WriteLine(" B = {0}",a);
         }
     }
 }
